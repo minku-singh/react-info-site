@@ -1,0 +1,22 @@
+.nav-container{
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #21222A;
+    padding: 1.1vw;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    color: #61DAFB;
+}
+.nav--logo-text{
+    font-weight: 700;
+    font-size: 22.25px;
+}
+.nav-container img{
+    height: 40px;
+}
+.nav--title{
+    font-weight: 600;
+}
